@@ -22,6 +22,10 @@
 <p><img src="YOUTUBE.png" width="450"></p>
 </a>
 
+<a href="https://wwwstrona.github.io/SANTOSSHOP/" target="_blank">
+<p><img src="SKLEP.png" width="450"></p>
+</a>
+
 
 	</body>
 </html>
