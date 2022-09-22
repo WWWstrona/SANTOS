@@ -1,4 +1,4 @@
-# SANTOS
+# STRONA GŁÓWNA
 <html>
 	<head>
 		<title>SANTOS MIX</title>
