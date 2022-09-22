@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://m.facebook.com/SantosOfficialFANPAGE" target="_blank">
-<p><img src="FANPAGE.png" width="150"></p>
+<p><img src="FANPAGE.png" width="120"></p>
 </a>
 
 <a href="https://www.youtube.com/SantosMIX/" target="_blank">
