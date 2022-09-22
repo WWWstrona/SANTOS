@@ -4,7 +4,7 @@
 		<title>SANTOS MIX</title>
 	</head>
 
-	<body bgcolor="black">
+	<body bgcolor="000000">
 
 <center><p><img src="LOGO SANTOS.png" width="600"></p></center>
 
