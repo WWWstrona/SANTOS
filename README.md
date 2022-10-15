@@ -1,12 +1,9 @@
-STRONA GŁÓWNA
-
 <html>
 	<head>
 		<title>SANTOS MIX</title>
 	</head>
 
-	<body bgcolor="black">
-
+	<body>
 <center><p><img src="LOGO SANTOS.png" width="600"></p></center>
 
 
@@ -31,6 +28,9 @@ STRONA GŁÓWNA
 <center><a href="https://www.youtube.com/watch?v=WjrmAMMktvU" target="_blank">
 <p><img src="LIVE TRWA.png" width="500"></p>
 </a></center>
+
+
+
 
 	</body>
 </html>
