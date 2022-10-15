@@ -1,4 +1,5 @@
-#STRONA GŁÓWNA
+STRONA GŁÓWNA
+
 <html>
 	<head>
 		<title>SANTOS MIX</title>
@@ -24,6 +25,11 @@
 
 <center><a href="https://wwwstrona.github.io/SANTOSSHOP/" target="_blank">
 <p><img src="SKLEP.png" width="450"></p>
+</a></center>
+
+
+<center><a href="https://www.youtube.com/watch?v=WjrmAMMktvU" target="_blank">
+<p><img src="LIVE TRWA.png" width="500"></p>
 </a></center>
 
 	</body>
