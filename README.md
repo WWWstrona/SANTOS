@@ -12,21 +12,8 @@
 <p><img src="DONATE.png" width="400"></p>
 </a></center>
 
-<a href="https://m.facebook.com/SantosOfficialFANPAGE" target="_blank">
-<p><img src="FANPAGE.png" width="150"></p>
-</a>
-
-<center-right><a href="https://www.youtube.com/SantosMIX/" target="_blank">
-<p><img src="YOUTUBE.png" width="450"></p>
-</a></center-right>
-
-<center><a href="https://wwwstrona.github.io/SANTOSSHOP/" target="_blank">
+<center><a href="https://635aa29fae876.site123.me" target="_blank">
 <p><img src="SKLEP.png" width="450"></p>
-</a></center>
-
-
-<center><a href="https://www.youtube.com/watch?v=WjrmAMMktvU" target="_blank">
-<p><img src="LIVE TRWA.png" width="500"></p>
 </a></center>
 
 
