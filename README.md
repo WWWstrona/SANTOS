@@ -12,7 +12,7 @@
 <p><img src="DONATE.png" width="400"></p>
 </a></center>
 
-<center><a href="https://635aa29fae876.site123.me" target="_blank">
+<center><a href="https://6391f24d06169.site123.me" target="_blank">
 <p><img src="SKLEP.png" width="450"></p>
 </a></center>
 
